@@ -8,7 +8,7 @@
 </h1>
 
   <h2 align="center">
-	IT perfessional in the making</h2>
+IT perfessional in the making </h2>
 
   <h3 align="center">description of myself<a href="http://electron.atom.io" target="_blank">link to linkdin</a>.</h3>
 
