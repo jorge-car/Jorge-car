@@ -13,10 +13,10 @@
 
 <p align="center">
 <a href="https://github.com/jorge-car/osticket-prereqs">osTicket:-Prerequisites-and-Installation</a> •
-  <a href="#osTicket:-Post-Installation-Configuration">osTicket:-Post-Installation-Configuration</a> •
-  <a href="#osTicket:-Ticket-Lifecycle-Examples">osTicket: Ticket-Lifecycle-Examples</a> •
-  <a href="#Configuring-On-premises-Active-Directory-within-Azure-VMs">Configuring-On-premises-Active-Directory-within-Azure-VMs</a> •
-  <a href="#Network-Security-Groups-(NSGs)-and-Inspecting-Network-Protocols">Network-Security-Groups-(NSGs)-and-Inspecting-Network-Protocols</a> •
+  <a href="https://github.com/jorge-car/post-install-config">osTicket:-Post-Installation-Configuration</a> •
+  <a href="https://github.com/jorge-car/ticket-lifecycle">osTicket: Ticket-Lifecycle-Examples</a> •
+  <a href="https://github.com/jorge-car/configure-ad">Configuring-On-premises-Active-Directory-within-Azure-VMs</a> •
+  <a href="https://github.com/jorge-car/azure-network-protocols">Network-Security-Groups-(NSGs)-and-Inspecting-Network-Protocols</a> •
 	
 </p>
 
