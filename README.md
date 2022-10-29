@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://i.postimg.cc/V6r4XybQ/2022-10-28.png" alt="profile" width="200"></a>
+  <a href="https://linktr.ee/jorge.004"><img src="https://i.postimg.cc/V6r4XybQ/2022-10-28.png" alt="profile" width="200"></a>
   <br>
   Jorge Carrillo #it career
   <br>
@@ -20,7 +20,7 @@
 	
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+![screenshot](https://media.giphy.com/media/bSg0OzY6jDjG0bcMzR/giphy.gif)
 
 
 ---
