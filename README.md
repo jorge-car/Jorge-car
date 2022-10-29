@@ -10,10 +10,10 @@
   <h2 align="center">
 	IT perfessional in the making</h2>
 
-  <h4 align="center">description of myself<a href="http://electron.atom.io" target="_blank">link to linkdin</a>.</h4>
+  <h3 align="center">description of myself<a href="http://electron.atom.io" target="_blank">link to linkdin</a>.</h3>
 
-   <h5 align="center">
-    Information technology projects</5>
+   <h4 align="center">
+    Information technology projects</4>
 
 <p align="center">
 <a href="https://github.com/jorge-car/osticket-prereqs">osTicket:-Prerequisites-and-Installation</a> •
