@@ -12,12 +12,11 @@
  Information technology projects</5>
 
 <p align="center">
-  <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
-  <a href="#license">License</a>
+  <a href="#osTicket:-Prerequisites-and-Installation">osTicket:-Prerequisites-and-Installation</a> •
+  <a href="#osTicket:-Post-Installation-Configuration">osTicket:-Post-Installation-Configuration</a> •
+  <a href="#osTicket:-Ticket-Lifecycle-Examples">osTicket: Ticket-Lifecycle-Examples</a> •
+  <a href="#Configuring-On-premises-Active-Directory-within-Azure-VMs">Configuring-On-premises-Active-Directory-within-Azure-VMs</a> •
+  <a href="#Network-Security-Groups-(NSGs)-and-Inspecting-Network-Protocols">Network-Security-Groups-(NSGs)-and-Inspecting-Network-Protocols</a> •
 </p>
 
 ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
