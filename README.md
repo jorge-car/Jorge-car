@@ -2,14 +2,18 @@
   <br>
   <a href="https://linktr.ee/jorge.004"><img src="https://i.postimg.cc/V6r4XybQ/2022-10-28.png" alt="profile" width="200"></a>
   <br>
-  Jorge Carrillo #it career
+	Jorge Carrillo
+	
   <br>
 </h1>
 
-<h4 align="center">description of myself<a href="http://electron.atom.io" target="_blank">link to linkdin</a>.</h4>
+  <h2 align="center">
+	IT perfessional in the making</h2>
 
-<h5 align="center">
- Information technology projects</5>
+  <h4 align="center">description of myself<a href="http://electron.atom.io" target="_blank">link to linkdin</a>.</h4>
+
+   <h5 align="center">
+    Information technology projects</5>
 
 <p align="center">
 <a href="https://github.com/jorge-car/osticket-prereqs">osTicket:-Prerequisites-and-Installation</a> •
