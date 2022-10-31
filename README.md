@@ -8,24 +8,36 @@
 </h1>
 
   <h2 align="center">
-IT perfessional in the making </h2>
+👨‍💻IT perfessional in the making </h2>
 
-  <h3 align="center">description of myself<a href="http://electron.atom.io" target="_blank">link to linkdin</a>.</h3>
+  <h3 align="center">Check out my understanding of IT with  the links down below. Each project helps show my understanding using a ticketing system the ins and out with the help of os ticket(some system adminstrator responsabilities as well!!). Even highlights my expierence using Virtual machines in microsoft azure and expierence with acive directiory:) </h3>
 
    <h4 align="center">
-    Information technology projects</4>
+  | Information technology projects ☺|</4>
 
 <p align="center">
-<a href="https://github.com/jorge-car/osticket-prereqs">osTicket:-Prerequisites-and-Installation</a> •
-  <a href="https://github.com/jorge-car/post-install-config">osTicket:-Post-Installation-Configuration</a> •
-  <a href="https://github.com/jorge-car/ticket-lifecycle">osTicket: Ticket-Lifecycle-Examples</a> •
-  <a href="https://github.com/jorge-car/configure-ad">Configuring-On-premises-Active-Directory-within-Azure-VMs</a> •
-  <a href="https://github.com/jorge-car/azure-network-protocols">Network-Security-Groups-(NSGs)-and-Inspecting-Network-Protocols</a> •
+
+osTicket (Help Desk Ticketing System)
+- <a href="https://github.com/jorge-car/osticket-prereqs">osTicket:-Prerequisites-and-Installation</a> 
+- <a href="https://github.com/jorge-car/post-install-config">osTicket:-Post-Installation-Configuration</a>
+- <a href="https://github.com/jorge-car/ticket-lifecycle">osTicket: Ticket-Lifecycle-Examples</a> 
+	
+	<b>Microsoft Azure</b>
+- <a href="https://github.com/jorge-car/configure-ad">Configuring-On-premises-Active-Directory-within-Azure-VMs</a> 
+-  <a href="https://github.com/jorge-car/azure-network-protocols">Network-Security-Groups-(NSGs)-and-Inspecting-Network-Protocols</a> 
 	
 </p>
 
 ![screenshot](https://media.giphy.com/media/bSg0OzY6jDjG0bcMzR/giphy.gif)
 
+<h5>or click down below </h5>
 
----
+[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/Josh
+[instagram]: https://www.instagram.com/Josh
+[linkedin]: https://linkedin.com/in/Josh
+
 
