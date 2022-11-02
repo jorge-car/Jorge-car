@@ -10,16 +10,14 @@
   <h2 align="center">
 👨‍💻IT perfessional</h2>
 
-  <h3 align="center">Check out my understanding of IT with  the links down below. Each project helps show my understanding using a ticketing system the ins and out with the help of os ticket(some system adminstrator responsabilities as well!!). Even highlights my expierence using Virtual machines in microsoft azure and expierence with acive directiory:) </h3>
+  <h3 align="center">Check out my understanding of IT with  the links down below. Each project helps show The completion of a ticket from the time its submitted to when its completed. Even highlights my expierence using Virtual machines in microsoft azure and expierence with acive directiory :) </h3>
 
    <h4 align="center">
   | Information technology projects |</4>
 
 <p align="center">
-
-osTicket (Help Desk Ticketing System)
-- <a href="https://github.com/jorge-car/osticket-prereqs">osTicket:-Prerequisites-and-Installation</a> 
-- <a href="https://github.com/jorge-car/post-install-config">osTicket:-Post-Installation-Configuration</a>
+	
+<b>Os ticket</b>	
 - <a href="https://github.com/jorge-car/ticket-lifecycle">osTicket: Ticket-Lifecycle-Examples</a> 
 	
 	<b>Microsoft Azure</b>
