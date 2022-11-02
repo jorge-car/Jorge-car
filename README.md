@@ -10,12 +10,12 @@
   <h2 align="center">
 IT professional in the making</h2>
 
-  <h3 align="center">Check out my understanding of the basics of IT with these projects. Using a ticketing system and using active direcory in microsoft azure</h3>
+  <h3 align="center">Check out my understanding of the basics of IT with these projects. Using a ticketing system and using active directory in microsoft azure</h3>
 
-   <h4 align="center">
+   <h4 align="left">
   | Information technology projects |</4>
 
-<p align="center">
+<p align="left">
 	
 <b>Os ticket</b>	
 - <a href="https://github.com/jorge-car/ticket-lifecycle">osTicket: Ticket-Lifecycle-Examples</a> 
