@@ -28,16 +28,14 @@ osTicket (Help Desk Ticketing System)
 	
 </p>
 
-![screenshot](https://media.giphy.com/media/bSg0OzY6jDjG0bcMzR/giphy.gif)
 
-<h5>or click down below </h5>
 
-[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<h5>Linkedin down below </h5>
+
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Josh
-[instagram]: https://www.instagram.com/Josh
+
+
 [linkedin]: https://linkedin.com/in/Josh
 
 
