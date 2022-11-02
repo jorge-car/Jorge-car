@@ -8,12 +8,12 @@
 </h1>
 
   <h2 align="center">
-👨‍💻IT perfessional in the making </h2>
+👨‍💻IT perfessional</h2>
 
   <h3 align="center">Check out my understanding of IT with  the links down below. Each project helps show my understanding using a ticketing system the ins and out with the help of os ticket(some system adminstrator responsabilities as well!!). Even highlights my expierence using Virtual machines in microsoft azure and expierence with acive directiory:) </h3>
 
    <h4 align="center">
-  | Information technology projects ☺|</4>
+  | Information technology projects |</4>
 
 <p align="center">
 
