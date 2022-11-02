@@ -8,9 +8,9 @@
 </h1>
 
   <h2 align="center">
-👨‍💻IT perfessional</h2>
+IT perfessinal in the making</h2>
 
-  <h3 align="center">Check out my understanding of IT with  the links down below. Each project helps show The completion of a ticket from the time its submitted to when its completed. Even highlights my expierence using Virtual machines in microsoft azure and expierence with acive directiory :) </h3>
+  <h3 align="center">Check out my understanding of the basics of IT with  the links down below. Each project helps show The completion of a ticket from the time its submitted to when its completed. Even highlights my expierence using Virtual machines in microsoft azure and expierence with acive directiory :) </h3>
 
    <h4 align="center">
   | Information technology projects |</4>
