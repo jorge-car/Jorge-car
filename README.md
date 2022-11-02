@@ -10,7 +10,7 @@
   <h2 align="center">
 IT professional in the making</h2>
 
-  <h3 align="center">Check out my understanding of the basics of IT with  the links down below. Each project helps show The completion of a ticket from the time its submitted to when its completed. Even highlights my expierence using Virtual machines in microsoft azure and expierence with acive directiory :) </h3>
+  <h3 align="center">Check out my understanding of the basics of IT with these projects. Using a ticketing system and using active direcory in microsoft azureg</h3>
 
    <h4 align="center">
   | Information technology projects |</4>
