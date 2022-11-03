@@ -1,6 +1,7 @@
 <h1 align="center">
   <br>
-  <a href="https://linktr.ee/jorge.004"><img src="https://i.postimg.cc/V6r4XybQ/2022-10-28.png" alt="profile" width="200"></a>
+  <a href="https://linktr.ee/jorge.004"><img src="https://i.postimg.cc/ZRcpXBwf/IT-help-desk-adobe-searchsitetablet-520-X173.jpg" alt="profile" width="200"></a>
+
   <br>
 	Jorge Carrillo
 	
