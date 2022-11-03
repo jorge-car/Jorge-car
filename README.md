@@ -10,7 +10,7 @@
   <h2 align="center">
 IT professional in the making</h2>
 
-  <h3 align="center">Check out my understanding of the basics of IT with these projects. Using a ticketing system and using active directory in microsoft azure</h3>
+  <h3 align="center">Check out my understanding of the basics of IT with these projects. Using a ticketing system and creating Virtual machines to observe traffic.</h3>
 
    <h4 align="left">
   | Information technology projects |</4>
@@ -20,8 +20,7 @@ IT professional in the making</h2>
 <b>Os ticket</b>	
 - <a href="https://github.com/jorge-car/ticket-lifecycle">osTicket: Ticket-Lifecycle-Examples</a> 
 	
-	<b>Microsoft Azure</b>
-- <a href="https://github.com/jorge-car/configure-ad">Configuring-On-premises-Active-Directory-within-Azure-VMs</a> 
+	<b>Microsoft Azure</b> 
 -  <a href="https://github.com/jorge-car/azure-network-protocols">Network-Security-Groups-(NSGs)-and-Inspecting-Network-Protocols</a> 
 	
 </p>
