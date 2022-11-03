@@ -34,6 +34,6 @@ IT professional in the making</h2>
 
 
 
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin]: https://linkedin.com/in/jorge-carrillo04
 
 
