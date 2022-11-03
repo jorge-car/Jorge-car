@@ -9,7 +9,7 @@
 </h1>
 
   <h2 align="center">
-IT professional in the making</h2>
+IT professional in the making 👨‍</h2>
 
   <h3 align="center">Check out my understanding of the basics of IT with these projects. Using a ticketing system and creating Virtual machines to observe traffic.</h3>
 
