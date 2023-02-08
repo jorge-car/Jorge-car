@@ -89,7 +89,7 @@
   ##   &nbsp;My Contacts
 
   <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portifolio-blueviolet?style=flat-square&logo=Portfolio&logoColor=white)](https://.github.io/)&nbsp; -->
-  [![LinkedIn Badge](https://img.shields.io/badge/-Pablo_Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//)](https://www.linkedin.com/in/pablodsilva/)&nbsp;
+  [![LinkedIn Badge](https://img.shields.io/badge/-gmail?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//)](https://www.linkedin.com/in/pablodsilva/)&nbsp;
   [![Gmail Badge](https://img.shields.io/badge/-gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:gmail)&nbsp;
 
 </div>
