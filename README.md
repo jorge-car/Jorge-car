@@ -1,6 +1,6 @@
 
 <div>
-🔴🟡🟢
+
 
 <br>
 
@@ -14,8 +14,8 @@
 <p align="center">
   <img src="link with profile views " alt="Profile views" />
   &nbsp;
-  <a href="https://github.com/Pepyn0?tab=followers">
-    <img src="https://img.shields.io/github/followers/Pepyn0?style=social" alt="Followers" />
+  <a href="">
+    <img src="" alt="Followers" />
   </a>
 </p>
 
