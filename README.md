@@ -9,6 +9,7 @@
 
 <div align="center">
   <img src="Image bannner link name and small information" alt="bio header"
+       <a href="">
 </div>
 
 <p align="center">
@@ -16,6 +17,7 @@
   &nbsp;
   <a href="">
     <img src="" alt="Followers" />
+     <a href="">
   </a>
 </p>
 
