@@ -6,30 +6,17 @@
 
 </div>
 
-
+ ![Jorge Carrillo](https://user-images.githubusercontent.com/112207591/221627734-9f2f3e41-be1e-4e7b-b736-8742726a360f.png)
 <div align="center">
-  <img src="Image bannner link name and small information" alt="bio header"
-       <a href="">
-</div>
-
-<p align="center">
-  <img src="link with profile views " alt="Profile views" />
-  &nbsp;
-  <a href="">
-    <img src="" alt="Followers" />
-     <a href="">
-  </a>
-</p>
-
+ 
 
 <div>
 
   ## personality and mentality 
-
   
 
 
-  - 🌱  Self starter 
+  - 🌱 Self starter 
 
   - 💬 Not afraid to ask questions 
 
@@ -47,15 +34,14 @@
 
 <div align="center">
 
-  `IT enthusiast and always learning `
-  <br>
-
-  `=========================`
+     IT enthusiast and always learning 
   <br>
 
 </div>
 
-
+## 📊 &nbsp;My projects
+  
+  area where im going to link repositories with my projects showing my understanding 
 <div>
 
   ## 📚 &nbsp;Currently learning (Certifications persuring)
@@ -81,17 +67,6 @@
  
 
 </div>
-
-
-<div>
-
-  ## 📊 &nbsp;My projects
-  
-  area where im going to link repositories with my projects showing my understanding 
- 
-</div>
-
-<div>
 
   ##   &nbsp;My Contacts
 
