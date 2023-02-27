@@ -40,9 +40,11 @@
 </div>
 
 ## 📊 &nbsp;My projects
-  Project showing basic admin commands in a ticket system(os Ticket
+  Project showing basic admin commands in a ticketing system(os Ticket)
   https://github.com/jorge-car/ticket-lifecycle
   
+ Microsoft azure and Wire shark( Finding Network traffic)
+ 
 <div>
 
   ## 📚 &nbsp;Currently learning (Certifications persuring)
