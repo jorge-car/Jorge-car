@@ -40,8 +40,9 @@
 </div>
 
 ## 📊 &nbsp;My projects
+  Project showing basic admin commands in a ticket system(os Ticket
+  https://github.com/jorge-car/ticket-lifecycle
   
-  area where im going to link repositories with my projects showing my understanding 
 <div>
 
   ## 📚 &nbsp;Currently learning (Certifications persuring)
