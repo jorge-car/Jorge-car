@@ -66,7 +66,7 @@
 
 <div>
 
-  ## 🛠️ &nbsp;place holder 
+  ## 🛠️ &nbsp;Coding languages and software
 
   ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
   ![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)&nbsp;
