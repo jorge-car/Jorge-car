@@ -96,10 +96,10 @@
   ##   &nbsp;My Contacts
 
   
-  [![LinkedIn Badge](https://img.shields.io/badge/-gmail?style=flat-square&logo=Linkedin&logoColor=white]&link=https://www.linkedin.com/in//)](https://www.linkedin.com/in/jorge-carrillo04/)&nbsp;
+  [![LinkedIn Badge](https://img.shields.io/badge/-gmail?style=flat-square&logo=Linkedin&logoColor=white]&link=https://www.linkedin.com/in//)](https://www.linkedin.com/in/jorge-carrillo04/)Linkedin profile&nbsp;
   <div>
     
-  [![Gmail Badge](https://img.shields.io/badge/-gmail-BLUE?style=flat-square&logo=Gmail&logoColor=white]&link=https://www.linkedin.com/in//)](https://www.linkedin.com/in/jorge-carrillo04/)&nbsp; jorge.04.carr@gmail.com
+  [![Gmail Badge](https://img.shields.io/badge/-gmail-BLUE?style=flat-square&logo=Gmail&logoColor=white]&link=https://www.linkedin.com/in//)](https://www.linkedin.com/in/jorge-carrillo04/):jorge.04.carr@gmail&nbsp;
 
 </div>
 
