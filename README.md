@@ -24,16 +24,20 @@
 
 <div>
 
-  ## 🧭 &nbsp;About Me
+  ## personality and mentality 
 
-  - self tought place holder .
-  <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
+  
 
-  - 🌱  place holder 
 
-  - 💬 place holder 
+  - 🌱  Self starter 
 
-  - place holder 
+  - 💬 Not afraid to ask questions 
+
+  - Self taught 
+  
+  - Problem solver 
+  
+  - Always giving my best
 
   <br>
   
@@ -54,12 +58,13 @@
 
 <div>
 
-  ## 📚 &nbsp;Currently learning 
+  ## 📚 &nbsp;Currently learning (Certifications persuring)
 
-  - place holder 
-  -  place holder
-  -  place holder
-  -  place holder
+  - Python 
+  - Network infastructure
+  - Cisco CCNA
+  - Comptia Network + 
+  
 
 </div>
 
